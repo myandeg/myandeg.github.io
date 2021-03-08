@@ -119,7 +119,7 @@ darkmode: false
 menu:
   home: / || home
   about: /about/ || user
-  categories: /categories/ || th
+  #categories: /categories/ || th
   tags: /tags/ || tags
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
