@@ -27,3 +27,5 @@ tags:
 > Our group has adapted an IR-pumped double resonance method, fluorescence-encoded IR (FEIR) spectroscopy, using broad-band femtosecond pulses to perform ultrafast Fourier transform vibrational spectroscopy, and recently developed a high-sensitivity experimental configuration incorporating confocal fluorescence microscopy to achieve 10–100 nM sensitivity in solution.
 
 研究者基于上述结果执行荧光编码红外(FEIR)相关光谱，即荧光相关光谱(FCS)的IR振动类似物，表明FEIR光谱可以实现单分子灵敏度，即在任何给定时间能够检测平均少于一个分子对信号的贡献 。
+
+![图1](ja1c00542_0001.jpeg)
