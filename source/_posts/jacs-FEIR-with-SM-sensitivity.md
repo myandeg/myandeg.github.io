@@ -27,6 +27,7 @@ tags:
 将振动激发耦合到荧光电子跃迁是一种有吸引力的策略，它得益于远场荧光检测的实验和技术优势，包括溶液相兼容性。自1970年代以来，就已经存在双共振方案。该方案首先通过红外吸收或受激的拉曼泵浦激发振动，然后将分子上转换为发射电子激发态，以执行具有更高检测灵敏度的振动光谱学。
 
 （中间这段进展没啥兴趣，直接跳过了，贴上原文） 
+
 > Recently, Xiong et al. achieved SM detection with stimulated Raman excited fluorescence (SREF) spectroscopy, representing the first far-field SM vibrational measurement. 
 > Our group has adapted an IR-pumped double resonance method, fluorescence-encoded IR (FEIR) spectroscopy, using broad-band femtosecond pulses to perform ultrafast Fourier transform vibrational spectroscopy, and recently developed a high-sensitivity experimental configuration incorporating confocal fluorescence microscopy to achieve 10–100 nM sensitivity in solution.
 
